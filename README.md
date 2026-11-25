@@ -25,6 +25,10 @@ Take absolute control over the high-dimensional viewing space using physical inp
 * **`SCROLL WHEEL UP`** ➔ **Zoom In System Scale:** Magnifies rendering scale up to a clear 5.0x bounds cap.
 * **`SCROLL WHEEL DOWN`** ➔ **Zoom Out System Scale:** Condenses scale limits down to a minimum 0.1x overview profile.
 
+  
+<img width="500" height="376" alt="image" src="https://github.com/user-attachments/assets/07bba10c-682f-40e9-80f4-72f01e53588b" />
+
+
 ### ⌨️ Categorized Key Bindings
 
 | Input Class | Hotkey | Operational Sandbox Command |
@@ -71,6 +75,4 @@ python hyperspace_visualizer.py
 
 
 
-
-<img width="548" height="393" alt="image" src="https://github.com/user-attachments/assets/658821b6-2863-4568-885b-95044b62f772" />
 
