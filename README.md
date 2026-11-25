@@ -11,7 +11,7 @@ I built this engine to explore how higher-dimensional geometry and multi-planar 
 
 ## 🧬 Biomorphic & Architectural Upgrades
 
-* **Self-Regulating Homeostasis (`EQUILIBRIUM_CONFIG`):** Constantly monitors the system mass density. It maintains a safe, stable baseline population (\(100 \le \text{nodes} \le 150\)) using timed mathematical birth and decay loops.
+* **Self-Regulating Homeostasis (`EQUILIBRIUM_CONFIG`):** Constantly monitors the system mass density. It maintains a safe, stable baseline population (100 <= nodes <= 150) using timed mathematical birth and decay loops.
 * **Autonomous Inflow (Cellular Birth):** Automatically streams a fresh cluster block (+18 points) every 1.5 seconds to expand the hyper-ball matrices naturally.
 * **Autonomous Outflow (Cellular Purge):** Runs density sweeps every 2.0 seconds. If the global particle count crosses a threshold, it fires an automated removal pulse to slice out excess vertices and maintain structural balance.
 * **Manual Override Interlock (`[A]`):** Features a hotkey toggle to halt the automatic ecosystem instantly, shifting the visualizer between an organic `✓ AUTO` loop and a user-controlled `✗ MANUAL` sandbox mode.
