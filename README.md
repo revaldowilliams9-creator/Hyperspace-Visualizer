@@ -71,7 +71,7 @@ pip install pygame-ce
 python hyperspace_visualizer.py
 ```
 
-I built this to explore how higher-dimensional coordinates can be projected onto a 2D screen in real time using trigonometric rotation matrices, while keeping frame rates smooth in Pygame.
+I built this engine to explore how higher-dimensional geometry and multi-planar trigonometric rotations can be projected onto a 2D viewport in real time. Beyond the math, I wanted to engineer a self-regulating particle ecosystem that balances birth and decay cycles automatically while maintaining responsive 60 FPS rendering in Pygame.
 
 
 
