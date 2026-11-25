@@ -66,3 +66,11 @@ pip install pygame-ce
 ```bash
 python hyperspace_visualizer.py
 ```
+
+
+
+
+
+
+<img width="548" height="393" alt="image" src="https://github.com/user-attachments/assets/658821b6-2863-4568-885b-95044b62f772" />
+
