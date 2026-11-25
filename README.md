@@ -4,6 +4,9 @@ A highly optimized real-time graphics visualization pipeline, viewport sandbox, 
 
 This architecture introduces an automated **Auto-Equilibrium Homeostasis System**, turning the script into a self-sustaining, ambient computational life form that manages its own node populations natively.
 
+## 💡 Why I Built This 
+I built this engine to explore how higher-dimensional geometry and multi-planar trigonometric rotations can be projected onto a 2D viewport in real time. Beyond the math, I wanted to engineer a self-regulating particle ecosystem that balances birth and decay cycles automatically while maintaining responsive 60 FPS rendering in Pygame.
+
 ---
 
 ## 🧬 Biomorphic & Architectural Upgrades
@@ -70,9 +73,3 @@ pip install pygame-ce
 ```bash
 python hyperspace_visualizer.py
 ```
-
-I built this engine to explore how higher-dimensional geometry and multi-planar trigonometric rotations can be projected onto a 2D viewport in real time. Beyond the math, I wanted to engineer a self-regulating particle ecosystem that balances birth and decay cycles automatically while maintaining responsive 60 FPS rendering in Pygame.
-
-
-
-
