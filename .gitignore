@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pygame / PyInstaller packaging & build artifacts
+build/
+dist/
+*.spec
+*.exe
+
+# Screenshot / recording test dumps (optional)
+*.mp4
+*.avi
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE & OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
