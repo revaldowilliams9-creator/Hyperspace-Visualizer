@@ -75,10 +75,11 @@ cd Hyperspace-Visualizer
 
 ### 2. Framework Installation
 ```bash
-pip install pygame-ce
+pip install -r requirements.txt
 ```
 
 ### 3. Execution Entry Point
 ```bash
 python hyperspace_visualizer.py
 ```
+
