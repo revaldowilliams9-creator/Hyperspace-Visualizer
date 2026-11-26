@@ -251,12 +251,12 @@ outflow_timer = 0.0
 auto_equilibrium_enabled = True
 
 HUD_ITEMS = [
-    {"label": "Speed: [▲▼]", "x": 60, "y": 20, "value_y": 40},
-    {"label": "Core: [W/S]", "x": 200, "y": 20, "value_y": 40},
-    {"label": "Distance", "x": 350, "y": 20, "value_y": 40},
-    {"label": "Mode: [P]", "x": 500, "y": 20, "value_y": 40},
-    {"label": "Theme: [T]", "x": 650, "y": 20, "value_y": 40},
-    {"label": "Core: [C]", "x": 800, "y": 20, "value_y": 40},
+    {"label": "Speed: [▲▼]", "x": 65, "y": 20, "value_y": 40},
+    {"label": "Core: [W/S]", "x": 180, "y": 20, "value_y": 40},
+    {"label": "Distance", "x": 295, "y": 20, "value_y": 40},
+    {"label": "Mode: [P]", "x": 410, "y": 20, "value_y": 40},
+    {"label": "Theme: [T]", "x": 525, "y": 20, "value_y": 40},
+    {"label": "Core: [C]", "x": 640, "y": 20, "value_y": 40},
 ]
 
 running = True
@@ -467,13 +467,13 @@ while running:
     # Display injection target mode
     target_color = (100, 255, 100) if injection_mode > 0 else (255, 200, 100)
     target_label = f"Target: {TARGET_MODES[injection_mode]}"
-    screen.blit(font.render(target_label, True, target_color), (920, panel_y + 20))
+    screen.blit(font.render(target_label, True, target_color), (760, panel_y + 20))
 
     # Display particle count and equilibrium status
     total_particles = len(ball_a) + len(ball_b)
     eq_status = "✓ AUTO" if auto_equilibrium_enabled else "✗ MANUAL"
     eq_color = (100, 200, 100) if auto_equilibrium_enabled else (255, 100, 100)
-    screen.blit(font.render(f"Particles: {total_particles} | Eq: {eq_status}", True, eq_color), (920, panel_y + 40))
+    screen.blit(font.render(f"Particles: {total_particles} | Eq: {eq_status}", True, eq_color), (760, panel_y + 40))
 
     fps_text = f"FPS: {int(clock.get_fps())} | Zoom: {camera.zoom:.1f}x | Add: {len(add_streams)} | Remove: {len(remove_streams)}"
     screen.blit(font.render(fps_text, True, theme["text"]), (config.width - 330, panel_y + 120))
