@@ -29,7 +29,7 @@ Take absolute control over the high-dimensional viewing space using physical inp
 * **`SCROLL WHEEL DOWN`** ➔ **Zoom Out System Scale:** Condenses scale limits down to a minimum 0.1x overview profile.
 
 ## 📸 Live Preview
-<img width="500" height="376" alt="image" src="https://github.com/user-attachments/assets/07bba10c-682f-40e9-80f4-72f01e53588b" />
+<img width="500" height="376" alt="image" src="https://github.com" />
 
 
 ### ⌨️ Categorized Key Bindings
@@ -54,7 +54,7 @@ Take absolute control over the high-dimensional viewing space using physical inp
 
 ## 📐 Math Projection Pipeline Overview
 
-Human vision is restricted to three geometric dimensions. To visual structural activity in an 8-dimensional coordinate structure, this script employs **Time (T)** as a processing vehicle:
+Human vision is restricted to three geometric dimensions. To visualize structural activity in an 8-dimensional coordinate structure, this script employs **Time (T)** as a processing vehicle:
 
 1. **Trigonometric Rotation:** High-dimensional positions roll across 4 coupled rotation tracks inside native hyperspace (`angle_1` to `angle_4`).
 2. **Dimension Reduction Slicing:** Higher indexes are systematically reduced to compute spatial depth perspective, guarded against division-by-zero bounds errors (Z-depth calculation).
@@ -79,4 +79,3 @@ pip install pygame-ce
 ```bash
 python hyperspace_visualizer.py
 ```
-
