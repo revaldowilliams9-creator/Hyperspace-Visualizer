@@ -64,12 +64,19 @@ Human vision is restricted to three geometric dimensions. To visual structural a
 
 ## ⚙️ Quick Start Compilation Instructions
 
-### 1. Framework Installation
+### 1. Clone the Repository
+```bash
+git clone https://github.com/revaldowilliams9-creator/8d-projection-engine.git
+cd Hyperspace-visualizer
+```
+
+### 2. Framework Installation
 ```bash
 pip install pygame-ce
 ```
 
-### 2. Execution Entry Point
+### 3. Execution Entry Point
 ```bash
 python hyperspace_visualizer.py
 ```
+
