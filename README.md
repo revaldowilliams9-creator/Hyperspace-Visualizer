@@ -29,7 +29,7 @@ Take absolute control over the high-dimensional viewing space using physical inp
 * **`SCROLL WHEEL DOWN`** ➔ **Zoom Out System Scale:** Condenses scale limits down to a minimum 0.1x overview profile.
 
 ## 📸 Live Preview
-<img width="500" height="376" alt="image" src="https://github.com" />
+<img width="500" height="376" alt="image" src="https://github.com/revaldowilliams9-creator/Hyperspace-Visualizer.git" />
 
 
 ### ⌨️ Categorized Key Bindings
