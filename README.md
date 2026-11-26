@@ -29,7 +29,7 @@ Take absolute control over the high-dimensional viewing space using physical inp
 * **`SCROLL WHEEL DOWN`** ➔ **Zoom Out System Scale:** Condenses scale limits down to a minimum 0.1x overview profile.
 
 ## 📸 Live Preview
-<img width="500" height="377" alt="image" src="https://github.com/user-attachments/assets/f6b1d3ac-b0a0-414f-ac7f-b8e65841cdd0" />
+<img width="600" height="377" alt="image" src="https://github.com/user-attachments/assets/f6b1d3ac-b0a0-414f-ac7f-b8e65841cdd0" />
 
 
 
