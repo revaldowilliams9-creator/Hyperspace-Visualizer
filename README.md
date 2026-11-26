@@ -66,8 +66,8 @@ Human vision is restricted to three geometric dimensions. To visualize structura
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/revaldowilliams9-creator/8d-projection-engine.git
-cd 8d-projection-engine
+git clone https://github.com/revaldowilliams9-creator/Hyperspace-Visualizer.git
+cd Hyperspace-Visualizer
 ```
 
 ### 2. Framework Installation
